@@ -50,7 +50,6 @@ protected override void OnCreate(Bundle? savedInstanceState)
  ```
  
 **Step 5:**
-
 Convert the Maps control to a platform-specific view for the .NET MAUI framework and set this view as the content view for the current Android activity.
 
 **[C#]:** 
